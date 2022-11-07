@@ -8,5 +8,5 @@
 <code>🧑‍💻 Languages: JavaScript, TypeScript</code>
 <code>📦 Tech stack: vue. js, node.js</code>
 <code>🪙 [Rates](RATES.md)</code><br>
-<code>💬 telegram: [@your-nikname](https://telegram.me/your-nikname)</code>
+<code>💬 telegram: [@freeeb1rd](https://t.me/freeeb1rd)</code>
 <code>📫 [daniilpadiryakov@gmail.com](mailto:daniilpadiryakov@gmail.com)</code>
